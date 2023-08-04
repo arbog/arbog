@@ -1,4 +1,4 @@
-Hi.  I'm Paul Arbogast, known to some as arbo or arbog.
+Hi.  I'm Paul Arbogast.
 
 I'm a linux enthusiast who's learning Haskell and Golang as of this commit.
 
